@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/InvitroWebAutotest.iml" filepath="$PROJECT_DIR$/InvitroWebAutotest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/invitro-RMS-autotests.iml" filepath="$PROJECT_DIR$/.idea/invitro-RMS-autotests.iml" />
     </modules>
   </component>
 </project>

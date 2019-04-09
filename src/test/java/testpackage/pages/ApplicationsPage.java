@@ -6,7 +6,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import testpackage.help.Help_Methods;
 
-@DefaultUrl("http://rms.invitro.ru:40506/")
+@DefaultUrl("http://10.10.10.222:50505/")
 
 public class ApplicationsPage extends PageObject {
 
